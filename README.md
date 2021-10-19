@@ -11,6 +11,6 @@
 - 🌱 I’m currently studying the Master's programme Complex Adaptive Systems at Chalmers University of Technology, 
       where I predominantly study Machine Learning and Computational science.
       Right now, I'm doing my exchange studies at ETH Zürich, where I'm studying Physics, Computational science and Machine Learning.
-- 💞️ I’d love to collaborate on physics, game or ML simulations, even better if they're all in combination!
+- 💞️ I’d love to collaborate on ML projects, especially with applications for physics, programming or games.
 - 📫 Reach me at m.ulmestrand@gmail.com. 
 
