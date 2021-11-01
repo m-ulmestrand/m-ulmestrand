@@ -5,12 +5,12 @@
       I also made a self-learning game with LSTM and Deep Q-learning, where agents learn to avoid the predator (player) in real time. 
       Another project I did features self-driving cars with Deep Q-learning and LiDAR-like detectors
       
-     I would say that my favourite part of doing Machine Learning is the interplay between modelling an environment in detail and allowing the AI
-     to learn from it.
-      
 - 🌱 I’m currently studying the Master's programme Complex Adaptive Systems at Chalmers University of Technology, 
-      where I predominantly study Machine Learning and Computational science.
+      where I predominantly study Machine Learning and Computational engineering. 
       Right now, I'm doing my exchange studies at ETH Zürich, where I'm continuing with the same profile.
+      
+      Having a background in both Computational engineering and ML, I like to do projects where I get to combine the modelling-intensive character
+      of Computational engineering and the data-centred approach of ML. 
 - 💞️ I’d love to collaborate on ML projects, especially with applications for physics, programming or games.
 - 📫 Reach me at m.ulmestrand@gmail.com. 
 
