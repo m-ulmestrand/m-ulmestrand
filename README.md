@@ -7,7 +7,7 @@
       
 - 🌱 I’m currently studying the Master's programme Complex Adaptive Systems at Chalmers University of Technology, 
       where I predominantly study Machine Learning and Computational engineering. 
-      Right now, I'm doing my exchange studies at ETH Zürich, where I'm continuing with the same profile.
+      I also recently conducted exchange studies to ETH Zürich, where I continued with the same profile.
       Having a background in both Computational engineering and ML, I like to do projects where I get to combine the modelling-intensive character
       of Computational engineering and the data-centred approach of ML. Most of my projects have such an approach, where I model an environment from the ground up and let an ML         algorithm learn from it. 
 - 💞️ I’d love to collaborate on ML projects, especially with applications for physics, programming or games.
