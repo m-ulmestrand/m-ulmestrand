@@ -5,7 +5,7 @@
       I also made a self-learning game with LSTM and Deep Q-learning, where agents learn to avoid the predator (player) in real time. 
       Another project I did features self-driving cars with Deep Q-learning and LiDAR-like detectors
       
-- 🌱 I work as a research engineer in Deep Learning and Computer Vision at Smart Eye. Previously I studied the Master's programme Complex Adaptive Systems at           Chalmers University of Technology
+- 🌱 I work as a Machine Learning and Computer Vision engineer at Taigatech. Previously I studied the Master's programme Complex Adaptive Systems at           Chalmers University of Technology
       where I predominantly took courses in Machine Learning and Computational engineering. Before that I studied Engineering Physics for three years.
       I also conducted exchange studies to ETH Zürich, where I continued with the same profile.
       Having a background in both Computational engineering and ML, I like to do projects where I get to combine the modelling-intensive character
